@@ -1,4 +1,4 @@
-Here is a table summarizing the audit of the claims from the README against `fibonacci.py`:
+Here is the ready-to-paste table for your audit:
 
 | Claim from README | Status | Evidence from Code |
 | --- | --- | --- |
