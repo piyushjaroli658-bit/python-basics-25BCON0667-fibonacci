@@ -36,3 +36,4 @@ This repository is intended for beginners who are learning Python. The program p
 ## Requirements
 
 * Python
+* Basic Maths
